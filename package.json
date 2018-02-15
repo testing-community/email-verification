@@ -1,0 +1,24 @@
+{
+  "name": "email-verification",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "eslint test src && mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AgileTestingColombia/email-verification.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AgileTestingColombia/email-verification/issues"
+  },
+  "homepage": "https://github.com/AgileTestingColombia/email-verification#readme",
+  "devDependencies": {
+    "eslint": "^4.17.0",
+    "eslint-config-google": "^0.9.1",
+    "mocha": "^5.0.1"
+  }
+}
