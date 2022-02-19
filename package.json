@@ -18,8 +18,8 @@
   },
   "homepage": "https://github.com/AgileTestingColombia/email-verification#readme",
   "devDependencies": {
-    "eslint": "^6.8.0",
+    "eslint": "^8.9.0",
     "eslint-config-google": "^0.14.0",
-    "mocha": "^7.1.1"
+    "mocha": "^9.2.1"
   }
 }
